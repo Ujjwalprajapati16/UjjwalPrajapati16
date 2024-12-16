@@ -10,7 +10,7 @@
 - 🔭 **Currently Working On**: [WeatherApp](https://github.com/Ujjwalprajapati16/WeatherApp)  
 - 🌱 **Currently Learning**: **Next.js** and **Java**  
 - 🤝 **Looking for Help**: Improving the UI of my project [Chat-App](https://github.com/Ujjwalprajapati16/chat-app)  
-- 👨‍💻 **All Projects**: [View Here](https://ujjwalprajapati16.github.io/UjjwalPrajapati/)  
+- 👨‍💻 **All Projects**: [View Here](https://ujjwal-portfolio-five.vercel.app/) 
 - 💬 **Ask Me About**: **React** and **Data Structures & Algorithms (DSA)**  
 - 📫 **Reach Me At**: [ujjwalprajapati154@gmail.com](mailto:ujjwalprajapati154@gmail.com)  
 - 📄 **Know My Experiences**: [Resume](https://1drv.ms/w/s!An2PNKBRvDO6mFqGEjojW9kJjzbW?e=ibvUAY)  
