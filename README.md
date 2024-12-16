@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalprajapati16" alt="ujjwalprajapati16" /></a> </p>
 
-- 🔭 I’m currently working on [whatsapp-clone](https://github.com/Ujjwalprajapati16/whatsapp-clone)
+- 🔭 I’m currently working on [WeatherApp](https://github.com/Ujjwalprajapati16/WeatherApp)
 
 - 🌱 I’m currently learning **Nextjs Java**
 
-- 🤝 I’m looking for help with [chat-app](https://github.com/Ujjwalprajapati16/chat-app)
+- 🤝 I’m looking for help with [chat-app](https://github.com/Ujjwalprajapati16/chat-app) in modify UI.
 
 - 👨‍💻 All of my projects are available at [https://ujjwalprajapati16.github.io/UjjwalPrajapati/](https://ujjwalprajapati16.github.io/UjjwalPrajapati/)
 
@@ -22,6 +22,9 @@
 - 📄 Know about my experiences [https://1drv.ms/w/s!An2PNKBRvDO6mFqGEjojW9kJjzbW?e=ibvUAY](https://1drv.ms/w/s!An2PNKBRvDO6mFqGEjojW9kJjzbW?e=ibvUAY)
 
 - ⚡ Fun fact **I really loves to watch movies**
+
+<h2>LeetCode Stats</h2>
+<p><img src="https://leetcode.card.workers.dev/ujjwal_1606?theme=dark&font=baloo&extension=activity"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,3 +42,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalprajapati16&show_icons=true&locale=en" alt="ujjwalprajapati16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalprajapati16&" alt="ujjwalprajapati16" /></p>
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
