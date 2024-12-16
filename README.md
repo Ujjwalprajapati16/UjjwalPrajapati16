@@ -7,24 +7,30 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalprajapati16" alt="ujjwalprajapati16" /></a> </p>
 
-- 🔭 I’m currently working on [WeatherApp](https://github.com/Ujjwalprajapati16/WeatherApp)
+- 🔭 **Currently Working On**: [WeatherApp](https://github.com/Ujjwalprajapati16/WeatherApp)  
+- 🌱 **Currently Learning**: **Next.js** and **Java**  
+- 🤝 **Looking for Help**: Improving the UI of my project [Chat-App](https://github.com/Ujjwalprajapati16/chat-app)  
+- 👨‍💻 **All Projects**: [View Here](https://ujjwalprajapati16.github.io/UjjwalPrajapati/)  
+- 💬 **Ask Me About**: **React** and **Data Structures & Algorithms (DSA)**  
+- 📫 **Reach Me At**: [ujjwalprajapati154@gmail.com](mailto:ujjwalprajapati154@gmail.com)  
+- 📄 **Know My Experiences**: [Resume](https://1drv.ms/w/s!An2PNKBRvDO6mFqGEjojW9kJjzbW?e=ibvUAY)  
+- ⚡ **Fun Fact**: I love watching movies!  
 
-- 🌱 I’m currently learning **Nextjs Java**
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- LeetCode Stats -->
+  <div style="text-align: center; inline-block;">
+    <h2 style="margin: 0;">LeetCode Stats</h2>
+    <img src="https://leetcode.card.workers.dev/ujjwal_1606?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats">
+  </div>
 
-- 🤝 I’m looking for help with [chat-app](https://github.com/Ujjwalprajapati16/chat-app) in modify UI.
+  <!-- LeetCode Badges -->
+  <div style="text-align: center; inline-block;">
+    <h2 style="margin: 0;">LeetCode Badges</h2>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=ujjwal_1606&theme=dark&border=border&animated=true" alt="Problems Solved Badge">
+  </div>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://ujjwalprajapati16.github.io/UjjwalPrajapati/](https://ujjwalprajapati16.github.io/UjjwalPrajapati/)
 
-- 💬 Ask me about **react DSA**
-
-- 📫 How to reach me **ujjwalprajapati154@gmail.com**
-
-- 📄 Know about my experiences [https://1drv.ms/w/s!An2PNKBRvDO6mFqGEjojW9kJjzbW?e=ibvUAY](https://1drv.ms/w/s!An2PNKBRvDO6mFqGEjojW9kJjzbW?e=ibvUAY)
-
-- ⚡ Fun fact **I really loves to watch movies**
-
-<h2>LeetCode Stats</h2>
-<p><img src="https://leetcode.card.workers.dev/ujjwal_1606?theme=dark&font=baloo&extension=activity"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
