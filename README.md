@@ -48,12 +48,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalprajapati16&show_icons=true&locale=en" alt="ujjwalprajapati16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalprajapati16&" alt="ujjwalprajapati16" /></p>
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-  </div>
-</details>
