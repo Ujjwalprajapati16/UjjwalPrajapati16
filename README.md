@@ -20,8 +20,9 @@
   <!-- LeetCode Stats -->
   <div style="text-align: center; inline-block;">
     <h2 style="margin: 0;">LeetCode Stats</h2>
-    <img src="https://leetcode.card.workers.dev/ujjwal_1606?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats">
+    <img src="https://leetcode-stats.vercel.app/api?username=ujjwal_1606&theme=Dark" alt="LeetCode Stats">
   </div>
+  
 
   <!-- LeetCode Badges -->
   <div style="text-align: center; inline-block;">
