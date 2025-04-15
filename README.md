@@ -31,6 +31,11 @@
   </div>
 </div>
 
+<div style="text-align: center; inline-block;">
+    <h2 style="margin: 0;">LeetCode Activity</h2>
+    <img src="https://leetcard.jacoblin.cool/ujjwal_1606?theme=dark&font=Noto%20Sans%20JP&ext=activity" alt="Leetcode activity">
+    </div>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
